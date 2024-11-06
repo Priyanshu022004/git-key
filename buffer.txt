@@ -1,5 +1,3 @@
 <<<<<<< HEAD
-merge conflict
-changes from f2 
 
 
